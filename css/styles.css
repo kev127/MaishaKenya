@@ -212,7 +212,7 @@ body{
 	  display: table;
 	  clear: both;
   }
-  .container h4{
+  .container h4{ 
 	  text-transform: uppercase;
 	  text-align: center;
 	  font-style: normal;
