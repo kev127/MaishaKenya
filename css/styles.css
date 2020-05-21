@@ -207,7 +207,7 @@ body{
 	  font-family: Times New Roman;
 	  font-size: x-small;
   } 
-  .row:after {
+  .row:after { 
 	  content: "";
 	  display: table;
 	  clear: both;
